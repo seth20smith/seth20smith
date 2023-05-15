@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Seth
 - 👀 I’m interested in Movies, video games, traveling, football. 
-- 🌱 I’m currently learning whatever this class will bring forth.
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently a Bootcamp grad freelancing while looking for full time work
+- 💞️ I’m mostly interested in front end work, but not limited to full stack work/ software engineer work. 
 - 📫 How to reach me seth20smith@gmail.com
 
 <!---
